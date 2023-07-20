@@ -8,16 +8,14 @@ The app has 3 pages in which the first 2 have vegetables and fruits which are ea
 the 3rd page i have used an api to create a weather page for where ever you are. I believe a weather page in my app is very helpful as it can help to tell you if your going to need to water your plants due to the high temptures or leave them etc. also gives you data about current temperature, wind speed which is especially needed for planting new foods.
 
 
-sources usaid below 
+
+sources I used below 
  
-https://chat.openai.com  helped me 
+https://chat.openai.com i used chat Gpt for few helping hand codes.
 
-fruit veg info https://www.rhs.org.uk from here
+https://www.rhs.org.uk fruit and veg information and images 
 
-Weather data taken from https://www.visualcrossing.com/weather-api 
+https://ionicframework.com/docs/ taken sample codes and examples from here
 
-https://ionicframework.com/docs/ 
+https://weather.visualcrossing.com  Weather data 
 
-https://weather.visualcrossing.com 
-
-There's a weather page which pulls in data from a weather API and displays details about the current weather in Abereden, with data such as current temperature, wind speed, sunset time, etc.
