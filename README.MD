@@ -9,7 +9,7 @@ the 3rd page i have used an api to create a weather page for where ever you are.
 
 course work video
 
-i have made a word document for my video that you can access 
+i have added my video into the drop box  
 
 
 
