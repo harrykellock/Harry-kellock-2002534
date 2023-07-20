@@ -7,6 +7,11 @@ The app has 3 pages in which the first 2 have vegetables and fruits which are ea
 
 the 3rd page i have used an api to create a weather page for where ever you are. I believe a weather page in my app is very helpful as it can help to tell you if your going to need to water your plants due to the high temptures or leave them etc. also gives you data about current temperature, wind speed which is especially needed for planting new foods.
 
+course work video
+
+i have made a word document for my video that you can access 
+
+
 
 
 sources I used below 
